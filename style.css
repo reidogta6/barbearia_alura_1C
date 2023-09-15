@@ -1,10 +1,12 @@
 body {
     background: #CCCCC;
 }
-{
-    text-aling: center;
+p {
+    text-align: center;
 }
-  
+  em strong {
+    color:rgb(255, 0, 0)
+  }
 
     
     
